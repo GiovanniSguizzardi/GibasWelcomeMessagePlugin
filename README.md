@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SeuUsuario/GibasPlugin/releases"><img src="https://img.shields.io/github/v/release/SeuUsuario/GibasPlugin?label=vers%C3%A3o&style=flat-square" alt="Release"></a>
-  <a href="https://github.com/SeuUsuario/GibasPlugin/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SeuUsuario/GibasPlugin?style=flat-square" alt="License"></a>
-  <a href="https://github.com/SeuUsuario/GibasPlugin/stargazers"><img src="https://img.shields.io/github/stars/SeuUsuario/GibasPlugin?style=flat-square" alt="Stars"></a>
+  <img src="https://img.shields.io/badge/Minecraft-1.21%2B-blue?style=for-the-badge&logo=minecraft" />
+  <img src="https://img.shields.io/badge/Java-21+-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/API-Paper%20%2F%20Spigot-yellow?style=for-the-badge" />
 </p>
 
 ---
